@@ -1,0 +1,28 @@
+.section-for-div {
+  margin-left: 228px;
+  margin-top: 140px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-right: 400px;
+}
+.info {
+  margin-left: 250px;
+}
+.description-two {
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  color: #444343;
+  line-height: 26px;
+  margin-top: 24px;
+}
+.icon-size {
+  width: 24px;
+  height: 24px;
+  margin-right: 15px;
+}
+.icon-image {
+  margin-bottom: 10px;
+  color: #444343;
+}

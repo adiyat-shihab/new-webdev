@@ -1,0 +1,55 @@
+.skill-image {
+  width: 92.958px;
+  height: 92.958px;
+}
+.skill-flex {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 290px;
+  margin-top: 53px;
+}
+.flex-setup {
+  margin-top: 214px;
+  margin-bottom: 135px;
+}
+.skill-1 {
+  text-align: center;
+}
+.positive-img {
+  /* margin: 130px 230px; */
+  margin-left: 230px;
+  margin-top: 135px;
+  background-image: url("../images/gradient1.png"), url("../images/watch.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+
+  width: 1450px;
+  height: 300px;
+  padding-left: 80px;
+  padding-top: 120px;
+  padding-bottom: 10px;
+}
+.button-al {
+  width: 160px;
+  height: 64px;
+  border-radius: 5px;
+  background: #fff;
+  color: #005fac;
+  text-align: center;
+  margin-top: 24px;
+  font-size: 20px;
+  border: none;
+
+  font-weight: 600;
+}
+.heading-style {
+  color: #fff;
+  font-family: Work Sans;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+}
+.icon-size {
+  height: 46px;
+  width: 45px;
+}
